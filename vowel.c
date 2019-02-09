@@ -5,7 +5,7 @@ int main()
     printf("Enter the string :");
     scanf("%s",&c);
     if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='A'||c=='E'||c=='I'||c=='O'||c=='U')
-    printf("vowel");
+    printf("Vowel");
     else if(c=='@'||c=='#'||c=='$'||c=='%'||c=='&')
     printf("invalid");
     else
