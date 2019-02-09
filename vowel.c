@@ -7,9 +7,9 @@ int main()
     if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='A'||c=='E'||c=='I'||c=='O'||c=='U')
     printf("vowel");
     else if(c=='@'||c=='#'||c=='$'||c=='%'||c=='&')
-    printf("Invalid");
+    printf("invalid");
     else
-    printf("consonant");
+    printf("Consonant");
     
     
 }
